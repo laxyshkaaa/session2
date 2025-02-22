@@ -1,0 +1,13 @@
+C:\Users\Pavel\source\repos\PISHYSAM7\PISHYSAM7\bin\Debug\PISHYSAM7.exe.config
+C:\Users\Pavel\source\repos\PISHYSAM7\PISHYSAM7\bin\Debug\PISHYSAM7.exe
+C:\Users\Pavel\source\repos\PISHYSAM7\PISHYSAM7\bin\Debug\PISHYSAM7.pdb
+C:\Users\Pavel\source\repos\PISHYSAM7\PISHYSAM7\obj\Debug\PISHYSAM7.csproj.AssemblyReference.cache
+C:\Users\Pavel\source\repos\PISHYSAM7\PISHYSAM7\obj\Debug\PISHYSAM7.Properties.Resources.resources
+C:\Users\Pavel\source\repos\PISHYSAM7\PISHYSAM7\obj\Debug\PISHYSAM7.csproj.GenerateResource.cache
+C:\Users\Pavel\source\repos\PISHYSAM7\PISHYSAM7\obj\Debug\PISHYSAM7.csproj.CoreCompileInputs.cache
+C:\Users\Pavel\source\repos\PISHYSAM7\PISHYSAM7\obj\Debug\PISHYSAM7.exe
+C:\Users\Pavel\source\repos\PISHYSAM7\PISHYSAM7\obj\Debug\PISHYSAM7.pdb
+C:\Users\Pavel\source\repos\PISHYSAM7\PISHYSAM7\obj\Debug\PISHYSAM7.EmployeeControl.resources
+C:\Users\Pavel\source\repos\PISHYSAM7\PISHYSAM7\obj\Debug\PISHYSAM7.EmployeeForm.resources
+C:\Users\Pavel\source\repos\PISHYSAM7\PISHYSAM7\obj\Debug\PISHYSAM7.EventControl.resources
+C:\Users\Pavel\source\repos\PISHYSAM7\PISHYSAM7\obj\Debug\PISHYSAM7.DepartmentForm.resources
